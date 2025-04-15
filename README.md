@@ -1,4 +1,4 @@
-<img align="center" alt="uspicon" height="30" width="40" src="![image](https://github.com/user-attachments/assets/897eb7c8-65a6-44a2-9198-96ba0d2502e6)">
+<img align="center" alt="uspicon" height="30" width="40" src="[![image](https://github.com/user-attachments/assets/897eb7c8-65a6-44a2-9198-96ba0d2502e6)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Webysther_20160310_-_Logo_USP.svg/1200px-Webysther_20160310_-_Logo_USP.svg)">
 
 
 ##
