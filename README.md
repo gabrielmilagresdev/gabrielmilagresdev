@@ -1,4 +1,8 @@
-## Welcome to my profile!
+<img align="center" alt="uspicon" height="30" width="40" src="![image](https://github.com/user-attachments/assets/897eb7c8-65a6-44a2-9198-96ba0d2502e6)">
+
+
+##
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmilagresdev)](https://github.com/gabrielmilagresdev/github-readme-stats)
 ##
 <div style="display: inline_block"><br>
