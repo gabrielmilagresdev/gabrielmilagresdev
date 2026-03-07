@@ -1,26 +1,28 @@
 # Gabriel Milagres
 
-Computer Science student focused on **algorithms, data structures and data science**.
+<p align="center">
+Computer Science student focused on algorithms, data structures and data science.
+</p>
 
 ---
 
-## 📊 GitHub Statistics
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=gabrielmilagresdev&show_icons=true&theme=tokyonight"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabrielmilagresdev&show_icons=true&theme=tokyonight"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmilagresdev&layout=compact&theme=tokyonight"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmilagresdev&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-## 📈 Activity
+# 📈 Activity Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielmilagresdev&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielmilagresdev&theme=tokyo-night"/>
 
 </p>
 
@@ -33,15 +35,15 @@ Applications and complete systems.
 <p align="center">
 
 <a href="https://github.com/gabrielmilagresdev/System-Against-Cases-Of-School-Attacks">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielmilagresdev&repo=System-Against-Cases-Of-School-Attacks&theme=tokyonight"/>
+<img src="https://img.shields.io/badge/System%20Against%20School%20Attacks-181717?style=for-the-badge&logo=github">
 </a>
 
 <a href="https://github.com/gabrielmilagresdev/Algorithm---Waste-Island-Solution-With-Matrices">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielmilagresdev&repo=Algorithm---Waste-Island-Solution-With-Matrices&theme=tokyonight"/>
+<img src="https://img.shields.io/badge/Waste%20Island%20Solution%20Algorithm-181717?style=for-the-badge&logo=github">
 </a>
 
 <a href="https://github.com/gabrielmilagresdev/Practicing---Remaking-the-Dueto-Game">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielmilagresdev&repo=Practicing---Remaking-the-Dueto-Game&theme=tokyonight"/>
+<img src="https://img.shields.io/badge/Dueto%20Game%20Simulation-181717?style=for-the-badge&logo=github">
 </a>
 
 </p>
@@ -50,16 +52,16 @@ Applications and complete systems.
 
 # 🧠 Math Algorithms
 
-Algorithms related to **linear algebra and computational mathematics**.
+Algorithms related to linear algebra and matrix computation.
 
 <p align="center">
 
 <a href="https://github.com/gabrielmilagresdev/Gauss-Jordan-Elimination-Algorithm">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielmilagresdev&repo=Gauss-Jordan-Elimination-Algorithm&theme=tokyonight"/>
+<img src="https://img.shields.io/badge/Gauss%20Jordan%20Elimination-181717?style=for-the-badge&logo=github">
 </a>
 
 <a href="https://github.com/gabrielmilagresdev/Algorithm---Transposed-Matrix">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielmilagresdev&repo=Algorithm---Transposed-Matrix&theme=tokyonight"/>
+<img src="https://img.shields.io/badge/Matrix%20Transpose%20Algorithm-181717?style=for-the-badge&logo=github">
 </a>
 
 </p>
@@ -68,16 +70,16 @@ Algorithms related to **linear algebra and computational mathematics**.
 
 # 📊 Data Science
 
-Projects related to **data collection and analysis**.
+Projects related to data collection and data processing.
 
 <p align="center">
 
 <a href="https://github.com/gabrielmilagresdev/Practicing---Web-Scraping">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielmilagresdev&repo=Practicing---Web-Scraping&theme=tokyonight"/>
+<img src="https://img.shields.io/badge/Web%20Scraping%20Practice-181717?style=for-the-badge&logo=github">
 </a>
 
 <a href="https://github.com/gabrielmilagresdev/Practicing---Python-and-Database-Integration">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielmilagresdev&repo=Practicing---Python-and-Database-Integration&theme=tokyonight"/>
+<img src="https://img.shields.io/badge/Python%20Database%20Integration-181717?style=for-the-badge&logo=github">
 </a>
 
 </p>
@@ -86,36 +88,38 @@ Projects related to **data collection and analysis**.
 
 # 💻 Practice
 
-Repositories created to practice algorithms and data structures.
+Repositories used to practice algorithms and data structures.
 
 <p align="center">
 
 <a href="https://github.com/gabrielmilagresdev/Practicing-Graphs-Data-Structure">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielmilagresdev&repo=Practicing-Graphs-Data-Structure&theme=tokyonight"/>
+<img src="https://img.shields.io/badge/Graphs%20Data%20Structure-181717?style=for-the-badge&logo=github">
 </a>
 
 <a href="https://github.com/gabrielmilagresdev/Sorting-algorithms">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielmilagresdev&repo=Sorting-algorithms&theme=tokyonight"/>
+<img src="https://img.shields.io/badge/Sorting%20Algorithms-181717?style=for-the-badge&logo=github">
 </a>
 
 <a href="https://github.com/gabrielmilagresdev/Binary-Trees---Algorithms-and-Data-Structures">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielmilagresdev&repo=Binary-Trees---Algorithms-and-Data-Structures&theme=tokyonight"/>
+<img src="https://img.shields.io/badge/Binary%20Trees-181717?style=for-the-badge&logo=github">
 </a>
 
 <a href="https://github.com/gabrielmilagresdev/Linked-Lists---Algorithms-and-Data-Structures">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielmilagresdev&repo=Linked-Lists---Algorithms-and-Data-Structures&theme=tokyonight"/>
+<img src="https://img.shields.io/badge/Linked%20Lists-181717?style=for-the-badge&logo=github">
 </a>
 
 <a href="https://github.com/gabrielmilagresdev/Sequential-Lists---Algorithms-and-Data-Structures">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielmilagresdev&repo=Sequential-Lists---Algorithms-and-Data-Structures&theme=tokyonight"/>
+<img src="https://img.shields.io/badge/Sequential%20Lists-181717?style=for-the-badge&logo=github">
 </a>
 
 <a href="https://github.com/gabrielmilagresdev/Practicing---Introduction-to-Recursive-Algorithms">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielmilagresdev&repo=Practicing---Introduction-to-Recursive-Algorithms&theme=tokyonight"/>
+<img src="https://img.shields.io/badge/Recursive%20Algorithms-181717?style=for-the-badge&logo=github">
 </a>
 
 <a href="https://github.com/gabrielmilagresdev/Exercises---Brazilian-Computing-Olympiad-Senior-Level-">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielmilagresdev&repo=Exercises---Brazilian-Computing-Olympiad-Senior-Level-&theme=tokyonight"/>
+<img src="https://img.shields.io/badge/OBI%20Exercises-181717?style=for-the-badge&logo=github">
 </a>
 
 </p>
+
+---
