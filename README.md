@@ -9,7 +9,7 @@ Information Systems student focused on algorithms, data structures and data scie
   <!-- Logo branco para DARK MODE -->
 
 <source 
- srcset="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_USP_branco.svg"
+ srcset="https://uspdigital.usp.br/comumwebdev/imagens/cabecalho/usp-logo.png"
  media="(prefers-color-scheme: dark)"
 />
 
@@ -24,9 +24,7 @@ Information Systems student focused on algorithms, data structures and data scie
 
 <img
 src="https://upload.wikimedia.org/wikipedia/commons/1/10/Logo_USP.svg"
-height="120"
-
->
+height="120">
 
 </picture>
 </p>
