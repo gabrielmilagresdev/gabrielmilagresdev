@@ -1,32 +1,26 @@
 # Gabriel Milagres
 
-<p align="center">
-Computer Science student focused on algorithms, data structures and data science.
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Gabriel%20Milagres&fontSize=40&fontColor=ffffff"/>
-</p>
+Computer Science student focused on **algorithms, data structures and data science**.
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabrielmilagresdev&show_icons=true&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=gabrielmilagresdev&show_icons=true&theme=tokyonight"/>
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmilagresdev&layout=compact&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmilagresdev&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 📈 Activity Graph
+## 📈 Activity
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielmilagresdev&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielmilagresdev&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -34,7 +28,7 @@ Computer Science student focused on algorithms, data structures and data science
 
 # 🚀 Projects
 
-Applications and complete systems developed as personal or academic projects.
+Applications and complete systems.
 
 <p align="center">
 
@@ -56,7 +50,7 @@ Applications and complete systems developed as personal or academic projects.
 
 # 🧠 Math Algorithms
 
-Implementations of mathematical algorithms related to linear algebra and computational mathematics.
+Algorithms related to **linear algebra and computational mathematics**.
 
 <p align="center">
 
@@ -70,19 +64,11 @@ Implementations of mathematical algorithms related to linear algebra and computa
 
 </p>
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/Algorithm-purple">
-<img src="https://img.shields.io/badge/Linear%20Algebra-blue">
-<img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white">
-
-</p>
-
 ---
 
 # 📊 Data Science
 
-Projects related to data collection, data processing and analysis.
+Projects related to **data collection and analysis**.
 
 <p align="center">
 
@@ -96,18 +82,11 @@ Projects related to data collection, data processing and analysis.
 
 </p>
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/SQLite-blue">
-
-</p>
-
 ---
 
 # 💻 Practice
 
-Repositories created to practice algorithms, data structures and programming concepts.
+Repositories created to practice algorithms and data structures.
 
 <p align="center">
 
@@ -139,16 +118,4 @@ Repositories created to practice algorithms, data structures and programming con
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielmilagresdev&repo=Exercises---Brazilian-Computing-Olympiad-Senior-Level-&theme=tokyonight"/>
 </a>
 
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white">
-
-</p>
-
----
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=120&section=footer"/>
 </p>
