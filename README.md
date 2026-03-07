@@ -1,6 +1,3 @@
-<!--- <img align="center" alt="uspicon" width="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Webysther_20160310_-_Logo_USP.svg/1200px-Webysther_20160310_-_Logo_USP.svg.png"> !-->
-
-
 ##
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmilagresdev)](https://github.com/gabrielmilagresdev/github-readme-stats)
