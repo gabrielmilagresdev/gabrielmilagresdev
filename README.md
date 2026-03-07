@@ -1,16 +1,17 @@
 ## 🧠 Math Algorithms
 
-Implementations of mathematical algorithms and structures related to linear algebra, discrete mathematics, and theoretical computer science.
+Implementations of mathematical algorithms related to linear algebra, discrete mathematics, and theoretical computer science.
 
----
+<p align="center">
 
-### 🔢 Gauss-Jordan Elimination Algorithm
+<a href="https://github.com/gabrielmilagresdev/Gauss-Jordan-Elimination-Algorithm">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielmilagresdev&repo=Gauss-Jordan-Elimination-Algorithm&theme=tokyonight"/>
+</a>
 
-Implementation of the **Gauss-Jordan elimination algorithm** for solving systems of linear equations using matrices.
+<br>
 
-Implementação do **algoritmo de eliminação de Gauss-Jordan** para resolver sistemas lineares utilizando matrizes.
+<img src="https://img.shields.io/badge/Algorithm-8A2BE2">
+<img src="https://img.shields.io/badge/Linear%20Algebra-4169E1">
+<img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white">
 
-🔗 Repository  
-https://github.com/gabrielmilagresdev/Gauss-Jordan-Elimination-Algorithm
-
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
+</p>
