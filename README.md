@@ -1,8 +1,34 @@
 # Gabriel Milagres
 
-Computer Science student focused on **algorithms, data structures, and data science**.
+<p align="center">
+Computer Science student focused on algorithms, data structures and data science.
+</p>
 
-This page organizes my repositories by area of study.
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Gabriel%20Milagres&fontSize=40&fontColor=ffffff"/>
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabrielmilagresdev&show_icons=true&theme=tokyonight"/>
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmilagresdev&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielmilagresdev&theme=tokyo-night"/>
+
+</p>
 
 ---
 
@@ -26,18 +52,11 @@ Applications and complete systems developed as personal or academic projects.
 
 </p>
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
-
-</p>
-
 ---
 
 # 🧠 Math Algorithms
 
-Implementations of mathematical algorithms related to **linear algebra and computational mathematics**.
+Implementations of mathematical algorithms related to linear algebra and computational mathematics.
 
 <p align="center">
 
@@ -63,7 +82,7 @@ Implementations of mathematical algorithms related to **linear algebra and compu
 
 # 📊 Data Science
 
-Projects related to **data collection, data processing and analysis**.
+Projects related to data collection, data processing and analysis.
 
 <p align="center">
 
@@ -88,7 +107,7 @@ Projects related to **data collection, data processing and analysis**.
 
 # 💻 Practice
 
-Repositories created to **practice algorithms, data structures, and programming concepts**.
+Repositories created to practice algorithms, data structures and programming concepts.
 
 <p align="center">
 
@@ -129,3 +148,7 @@ Repositories created to **practice algorithms, data structures, and programming 
 </p>
 
 ---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=120&section=footer"/>
+</p>
