@@ -16,7 +16,7 @@ Information Systems student focused on algorithms, data structures and data scie
   <!-- Logo preto para LIGHT MODE -->
 
 <source 
- srcset="https://scs.usp.br/identidadevisual/wp-content/uploads/2022/08/logo_usp_branco.png"
+ srcset="https://scs.usp.br/identidadevisual/wp-content/uploads/2022/08/usp-logo-png.png"
  media="(prefers-color-scheme: light)"
 />
 
