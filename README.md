@@ -16,14 +16,14 @@ Information Systems student focused on algorithms, data structures and data scie
   <!-- Logo preto para LIGHT MODE -->
 
 <source 
- srcset="https://upload.wikimedia.org/wikipedia/commons/1/10/Logo_USP.svg"
+ srcset="https://scs.usp.br/identidadevisual/wp-content/uploads/2022/08/logo_usp_branco.png"
  media="(prefers-color-scheme: light)"
 />
 
   <!-- fallback -->
 
 <img
-src="https://upload.wikimedia.org/wikipedia/commons/1/10/Logo_USP.svg"
+src="https://scs.usp.br/identidadevisual/wp-content/uploads/2022/08/logo_usp_branco.png"
 height="120">
 
 </picture>
