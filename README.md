@@ -1,8 +1,36 @@
 # Gabriel Milagres
 
 <p align="center">
-Computer Science student focused on algorithms, data structures and data science.
+Information Systems student focused on algorithms, data structures and data science.
 </p>
+<p align="center">
+<picture>
+
+  <!-- Logo branco para DARK MODE -->
+
+<source 
+ srcset="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_USP_branco.svg"
+ media="(prefers-color-scheme: dark)"
+/>
+
+  <!-- Logo preto para LIGHT MODE -->
+
+<source 
+ srcset="https://upload.wikimedia.org/wikipedia/commons/1/10/Logo_USP.svg"
+ media="(prefers-color-scheme: light)"
+/>
+
+  <!-- fallback -->
+
+<img
+src="https://upload.wikimedia.org/wikipedia/commons/1/10/Logo_USP.svg"
+height="120"
+
+>
+
+</picture>
+</p>
+
 
 ---
 
