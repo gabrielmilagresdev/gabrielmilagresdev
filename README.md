@@ -37,15 +37,15 @@ Applications and complete systems.
 </a>
 
 <a href="https://github.com/gabrielmilagresdev/Hospital-Service-Prioritization-Algorithm">
-<img src="https://img.shields.io/badge/Dueto%20Game%20Simulation-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/Hospital%20Service%20Prioritization%20Algorithm-181717?style=for-the-badge&logo=github">
 </a>
 
 <a href="https://github.com/gabrielmilagresdev/Waste-Island-Solution-With-Matrices">
-<img src="https://img.shields.io/badge/Dueto%20Game%20Simulation-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/Waste%20Island%20Solution%20With%20Matrices-181717?style=for-the-badge&logo=github">
 </a>
 
 <a href="https://github.com/gabrielmilagresdev/Keyword-Indexer-and-Search-Engine">
-<img src="https://img.shields.io/badge/Waste%20Island%20Solution%20Algorithm-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/Keyword%20Indexer%20and%20Search%20Engine-181717?style=for-the-badge&logo=github">
 </a>
 
 
@@ -58,7 +58,7 @@ Projects related to data collection and data processing.
 <p align="center">
 
 <a href="https://github.com/gabrielmilagresdev/Graphs-Data-Structure">
-<img src="https://img.shields.io/badge/Web%20Scraping%20Practice-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/Graphs%20Data%20Structure-181717?style=for-the-badge&logo=github">
 </a>
 
 <a href="https://github.com/gabrielmilagresdev/Practicing-Web-Scraping">
@@ -66,15 +66,15 @@ Projects related to data collection and data processing.
 </a>
 
 <a href="https://github.com/gabrielmilagresdev/Binary-Trees-Data-Structure">
-<img src="https://img.shields.io/badge/Python%20Database%20Integration-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/Binary%20Trees%20Data%20Structure-181717?style=for-the-badge&logo=github">
 </a>
 
 <a href="https://github.com/gabrielmilagresdev/Linked-Lists-Data-Structure">
-<img src="https://img.shields.io/badge/Python%20Database%20Integration-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/Linked%20Lists%20Data%20Structure-181717?style=for-the-badge&logo=github">
 </a>
 
 <a href="https://github.com/gabrielmilagresdev/Sequential-Lists-Data-Structure">
-<img src="https://img.shields.io/badge/Python%20Database%20Integration-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/Sequential%20Lists%20Data%20Structure-181717?style=for-the-badge&logo=github">
 </a>
 
 <a href="https://github.com/gabrielmilagresdev/Python-and-Database-Integration">
@@ -108,27 +108,27 @@ Repositories used to practice algorithms and data structures.
 <p align="center">
 
 <a href="https://github.com/gabrielmilagresdev/Sorting-Algorithms">
-<img src="https://img.shields.io/badge/Graphs%20Data%20Structure-181717?style=for-the-badge&logo=github">
-</a>
-
-<a href="https://github.com/gabrielmilagresdev/Remaking-the-Dueto-Game">
 <img src="https://img.shields.io/badge/Sorting%20Algorithms-181717?style=for-the-badge&logo=github">
 </a>
 
+<a href="https://github.com/gabrielmilagresdev/Remaking-the-Dueto-Game">
+<img src="https://img.shields.io/badge/Remaking%20the%20Dueto%20Game-181717?style=for-the-badge&logo=github">
+</a>
+
 <a href="https://github.com/gabrielmilagresdev/Practicing-Recursive-Algorithms">
-<img src="https://img.shields.io/badge/Binary%20Trees-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/Recursive%20Algorithms-181717?style=for-the-badge&logo=github">
 </a>
 
 <a href="https://github.com/gabrielmilagresdev/Brazilian-Computing-Olympiad-Senior-Level">
-<img src="https://img.shields.io/badge/Linked%20Lists-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/Brazilian%20Computing%20Olympiad-181717?style=for-the-badge&logo=github">
 </a>
 
 <a href="https://github.com/gabrielmilagresdev/Random-Button">
-<img src="https://img.shields.io/badge/Sequential%20Lists-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/Random%20Button-181717?style=for-the-badge&logo=github">
 </a>
 
 <a href="https://github.com/gabrielmilagresdev/Google-Prototype-With-Figma">
-<img src="https://img.shields.io/badge/Recursive%20Algorithms-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/Google%20Prototype%20Figma-181717?style=for-the-badge&logo=github">
 </a>
 
 </p>
