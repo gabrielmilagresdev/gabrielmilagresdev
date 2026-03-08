@@ -18,24 +18,12 @@ Information Systems student focused on algorithms, data structures and data scie
 
 # 📊 GitHub Stats
 
-## Contributions
-
 <p align="center">
 
-<img src="https://ghchart.rshah.org/gabrielmilagresdev" />
-
-</p>
----
-
-# 📈 Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielmilagresdev&theme=tokyo-night"/>
+<img src="https://streak-stats.demolab.com?user=gabrielmilagresdev&theme=tokyonight&hide_border=true"/>
 
 </p>
 
----
 
 # 🚀 Projects
 
