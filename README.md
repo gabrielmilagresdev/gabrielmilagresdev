@@ -136,14 +136,15 @@ Repositories used to practice algorithms and data structures.
 ---
 <p align="center">
 
-<img src="https://img.shields.io/badge/C-181717?style=for-the-badge&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/C++-181717?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-<img src="https://img.shields.io/badge/Python-181717?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/R-181717?style=for-the-badge&logo=r&logoColor=white">
-<img src="https://img.shields.io/badge/Java-181717?style=for-the-badge&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/SQL-181717?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/HTML5-181717?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-181717?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-181717?style=for-the-badge&logo=javascript&logoColor=white">
+
+<img src="https://skillicons.dev/icons?i=c" height="50"/>
+<img src="https://skillicons.dev/icons?i=cpp" height="50"/>
+<img src="https://skillicons.dev/icons?i=python" height="50"/>
+<img src="https://skillicons.dev/icons?i=r" height="50"/>
+<img src="https://skillicons.dev/icons?i=java" height="50"/>
+<img src="https://skillicons.dev/icons?i=mysql" height="50"/>
+<img src="https://skillicons.dev/icons?i=html" height="50"/>
+<img src="https://skillicons.dev/icons?i=css" height="50"/>
+<img src="https://skillicons.dev/icons?i=javascript" height="50"/>
 
 </p>
