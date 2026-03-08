@@ -52,26 +52,6 @@ Applications and complete systems.
 
 </p>
 
----
-
-# Math Algorithms
-
-Algorithms related to linear algebra and matrix computation.
-
-<p align="center">
-
-<a href="https://github.com/gabrielmilagresdev/Gauss-Jordan-Elimination-Algorithm">
-<img src="https://img.shields.io/badge/Gauss%20Jordan%20Elimination-181717?style=for-the-badge&logo=github">
-</a>
-
-<a href="https://github.com/gabrielmilagresdev/Algorithm-Transposed-Matrix">
-<img src="https://img.shields.io/badge/Matrix%20Transpose%20Algorithm-181717?style=for-the-badge&logo=github">
-</a>
-
-</p>
-
----
-
 # Data Science
 
 Projects related to data collection and data processing.
@@ -100,6 +80,27 @@ Projects related to data collection and data processing.
 
 <a href="https://github.com/gabrielmilagresdev/Python-and-Database-Integration">
 <img src="https://img.shields.io/badge/Python%20Database%20Integration-181717?style=for-the-badge&logo=github">
+</a>
+
+</p>
+
+---
+
+
+---
+
+# Math Algorithms
+
+Algorithms related to linear algebra and matrix computation.
+
+<p align="center">
+
+<a href="https://github.com/gabrielmilagresdev/Gauss-Jordan-Elimination-Algorithm">
+<img src="https://img.shields.io/badge/Gauss%20Jordan%20Elimination-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://github.com/gabrielmilagresdev/Algorithm-Transposed-Matrix">
+<img src="https://img.shields.io/badge/Matrix%20Transpose%20Algorithm-181717?style=for-the-badge&logo=github">
 </a>
 
 </p>
