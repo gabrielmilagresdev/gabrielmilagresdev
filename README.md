@@ -1,7 +1,7 @@
 # Gabriel Milagres
 
-<p align="center">
-Information Systems student focused on algorithms, data structures and data science.
+<p align="left">
+Information Systems student focused on algorithms, math, architeture, data structures and data science.
 
 ---
   
