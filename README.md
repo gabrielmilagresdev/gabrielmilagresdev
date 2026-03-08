@@ -1,7 +1,7 @@
 # Gabriel Milagres
 
 <p align="left">
-<b>Information Systems student interested in low-level computing, focusing on architecture, mathematics, algorithms, data structures, and data science<\b>
+<b>Information Systems student interested in low-level computing, focusing on architecture, mathematics, algorithms, data structures, and data science
 
 ---
   
