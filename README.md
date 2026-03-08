@@ -16,9 +16,9 @@ Information Systems student focused on algorithms, data structures and data scie
 
 ---
 
-#GitHub Stats
+# GitHub Stats
 
-<p align="left">
+<p align="center">
 
 <img src="https://streak-stats.demolab.com?user=gabrielmilagresdev&theme=tokyonight&hide_border=true"/>
 
