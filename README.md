@@ -2,8 +2,6 @@
 
 <p align="left">
 <b>Information Systems student interested in low-level computing, focusing on architecture, mathematics, algorithms, data structures, and data science
-
----
   
 </p>
 <p align="center">
@@ -26,6 +24,7 @@
 
 </p>
 
+---
 
 # Projects
 
