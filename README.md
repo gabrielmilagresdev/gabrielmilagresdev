@@ -84,9 +84,6 @@ Projects related to data collection and data processing.
 </p>
 
 
-
----
-
 # Math Algorithms
 
 Algorithms related to linear algebra and matrix computation.
@@ -103,7 +100,6 @@ Algorithms related to linear algebra and matrix computation.
 
 </p>
 
----
 
 # Practice
 
