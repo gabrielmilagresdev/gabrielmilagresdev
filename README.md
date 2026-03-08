@@ -2,6 +2,9 @@
 
 <p align="center">
 Information Systems student focused on algorithms, data structures and data science.
+
+---
+  
 </p>
 <p align="center">
 <picture>
