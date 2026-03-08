@@ -25,7 +25,7 @@ Information Systems student focused on algorithms, data structures and data scie
 </p>
 
 
-# 🚀 Projects
+# Projects
 
 Applications and complete systems.
 
@@ -47,7 +47,7 @@ Applications and complete systems.
 
 ---
 
-# 🧠 Math Algorithms
+# Math Algorithms
 
 Algorithms related to linear algebra and matrix computation.
 
@@ -65,7 +65,7 @@ Algorithms related to linear algebra and matrix computation.
 
 ---
 
-# 📊 Data Science
+# Data Science
 
 Projects related to data collection and data processing.
 
@@ -83,7 +83,7 @@ Projects related to data collection and data processing.
 
 ---
 
-# 💻 Practice
+# Practice
 
 Repositories used to practice algorithms and data structures.
 
