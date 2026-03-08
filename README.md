@@ -136,10 +136,6 @@ Repositories used to practice algorithms and data structures.
 <img src="https://img.shields.io/badge/Recursive%20Algorithms-181717?style=for-the-badge&logo=github">
 </a>
 
-<a href="https://github.com/gabrielmilagresdev/Exercises---Brazilian-Computing-Olympiad-Senior-Level-">
-<img src="https://img.shields.io/badge/OBI%20Exercises-181717?style=for-the-badge&logo=github">
-</a>
-
 </p>
 
 ---
