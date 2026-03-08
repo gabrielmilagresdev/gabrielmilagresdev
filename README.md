@@ -17,7 +17,6 @@ Information Systems student focused on algorithms, data structures and data scie
 </p>
 
 
----
 
 # GitHub Stats
 
