@@ -20,9 +20,7 @@ Information Systems student focused on algorithms, data structures and data scie
 
 <p align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabrielmilagresdev&show_icons=true&theme=tokyonight"/>
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmilagresdev&layout=compact&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=gabrielmilagresdev&theme=tokyonight&hide_border=true"/>
 
 </p>
 
