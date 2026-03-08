@@ -142,7 +142,7 @@ Repositories used to practice algorithms and data structures.
 <img src="https://skillicons.dev/icons?i=python" height="50"/>
 <img src="https://skillicons.dev/icons?i=r" height="50"/>
 <img src="https://skillicons.dev/icons?i=java" height="50"/>
-<img src="https://api.iconify.design/logos:assembly.svg" height="50"/>
+<img src="https://raw.githubusercontent.com/github/explore/e495457f5ff28c343f9e422f8e3cf80fd3e80890/topics/assembly/assembly.png" height="50"/>
 <img src="https://skillicons.dev/icons?i=mysql" height="50"/>
 <img src="https://skillicons.dev/icons?i=html" height="50"/>
 <img src="https://skillicons.dev/icons?i=css" height="50"/>
