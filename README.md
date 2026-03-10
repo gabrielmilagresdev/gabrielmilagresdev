@@ -15,7 +15,6 @@
 </p>
 
 
-
 # GitHub Stats
 
 <p align="center">
@@ -47,7 +46,6 @@ Applications and complete systems.
 <a href="https://github.com/gabrielmilagresdev/Keyword-Indexer-and-Search-Engine">
 <img src="https://img.shields.io/badge/Keyword%20Indexer%20and%20Search%20Engine-181717?style=for-the-badge&logo=github">
 </a>
-
 
 </p>
 
@@ -83,7 +81,6 @@ Projects related to data collection and data processing.
 
 </p>
 
-
 # Math Algorithms
 
 Algorithms related to linear algebra and matrix computation.
@@ -97,9 +94,7 @@ Algorithms related to linear algebra and matrix computation.
 <a href="https://github.com/gabrielmilagresdev/Algorithm-Transposed-Matrix">
 <img src="https://img.shields.io/badge/Matrix%20Transpose%20Algorithm-181717?style=for-the-badge&logo=github">
 </a>
-
 </p>
-
 
 # Practice
 
@@ -135,7 +130,6 @@ Repositories used to practice algorithms and data structures.
 
 ---
 <p align="center">
-
 
 <img src="https://skillicons.dev/icons?i=c" height="50"/>
 <img src="https://skillicons.dev/icons?i=cpp" height="50"/>
